@@ -1,4 +1,4 @@
-# -Frontend-Shopping-Cart
+# [Frontend] Shopping-Cart-Checkout
 
 1. Web design (HTML, CSS) for a shopping checkout page.
 2. Web page preview available on: https://daleyshoppingcart.glitch.me/
